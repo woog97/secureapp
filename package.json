@@ -1,0 +1,31 @@
+{
+  "name": "secureapp",
+  "version": "1.0.0",
+  "description": "Secure messaging app with quantum-resistant encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woog97/secureapp.git"
+  },
+  "keywords": [
+    "secure",
+    "messaging",
+    "encryption",
+    "quantum-resistant",
+    "messaging",
+    "app",
+    "node.js"
+  ],
+  "author": "woog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woog97/secureapp/issues"
+  },
+  "homepage": "https://github.com/woog97/secureapp#readme",
+  "dependencies": {
+    "node": "^19.6.1"
+  }
+}
